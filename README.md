@@ -30,10 +30,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
----
-
 ### 🧩 Problem Solving (LeetCode)
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=higgsboson1710&theme=dark" />
+<!-- LeetCode Stats: total solved + difficulty -->
+<img src="https://leetcode-stats-six.vercel.app/api?username=higgsboson1710" />
+
+<br/>
+
+<!-- LeetCode Heatmap (unofficial, may be unstable) -->
+<img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
 
 
