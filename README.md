@@ -32,12 +32,11 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ### 🧩 Problem Solving (LeetCode)
 
-<!-- LeetCode Stats: total solved + difficulty -->
-<img src="https://leetcode-stats-six.vercel.app/api?username=higgsboson1710" />
-
-<br/>
-
 <!-- LeetCode Heatmap (unofficial, may be unstable) -->
 <img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
+### 🧩 Problem Solving (CodeChef)
+
+<img src="https://cp-cards.vercel.app/api/codechef/higgsboson1710" />
+
 
 
