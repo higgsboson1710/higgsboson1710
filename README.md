@@ -30,13 +30,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
 ### 🧩 Problem Solving (LeetCode)
 
 <!-- LeetCode Heatmap (unofficial, may be unstable) -->
 <img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
-### 🧩 Problem Solving (CodeChef)
 
-<img src="https://cp-cards.vercel.app/api/codechef/higgsboson1710" />
 
 
 
