@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">Computer Science Student | Machine Learning | Backend Basics</h3>
+<h3 align="center">Computer Science Student | Machine Learning | Backend Development</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- Exploring classical machine learning and statistical models  
-- Interested in model evaluation, metrics, and visual analysis  
-- Familiar with building basic backend services using Flask  
-- Regular problem solver on CodeChef, LeetCode, and Codeforces  
+- Exploring **classical machine learning** and statistical models  
+- Interested in **model evaluation, metrics, and visual analysis**  
+- Building **RESTful backend APIs** using FastAPI and Flask  
+- Hands-on with **schema validation & data modeling using Pydantic** 
+- Regular problem solver on **CodeChef, LeetCode, and Codeforces**
 
 ---
 
@@ -16,6 +17,7 @@
 #### Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 #### Data Science & Visualization
@@ -26,17 +28,21 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Backend & Databases
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🧩 Problem Solving (LeetCode)
 
-<!-- LeetCode Heatmap (unofficial, may be unstable) -->
 <img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
+
 
 
 
