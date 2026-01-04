@@ -7,7 +7,8 @@
 - Exploring **classical machine learning** and statistical models  
 - Interested in **model evaluation, metrics, and visual analysis**  
 - Building **RESTful backend APIs** using FastAPI and Flask  
-- Hands-on with **schema validation & data modeling using Pydantic** 
+- Hands-on with **schema validation & data modeling using Pydantic**  
+- Experience with **containerizing applications using Docker**  
 - Regular problem solver on **CodeChef, LeetCode, and Codeforces**
 
 ---
@@ -33,6 +34,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 #### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,8 +44,6 @@
 ### 🧩 Problem Solving (LeetCode)
 
 <img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
-
-
 
 
 
