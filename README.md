@@ -58,6 +58,18 @@
 ### 📊 GitHub & Problem Solving Stats
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Space Animation" />
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=higgsboson1710&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=higgsboson1710&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -65,4 +77,3 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/higgsboson1710?theme=dark&ext=heatmap" />
 </div>
-
