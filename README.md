@@ -23,13 +23,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building **Jobster** and developing **Project Lifeline** (real-time fall detection using FastAPI & MediaPipe)
-- 🧠 Exploring **classical machine learning** and statistical models  
-- 📊 Interested in **model evaluation, metrics, and visual analysis**
-- ⚙️ Building **RESTful backend APIs** using FastAPI and Flask  
-- 🛠 Hands-on with **schema validation & data modeling using Pydantic**
-- 🐳 Experience with **containerizing applications using Docker**
-- 🏆 Regular problem solver on **CodeChef, LeetCode, and Codeforces**
+-  Currently building **Jobster** and developing **Project Lifeline** (real-time fall detection using FastAPI & MediaPipe)
+- Exploring **classical machine learning** and statistical models  
+-  Interested in **model evaluation, metrics, and visual analysis**
+-  Building **RESTful backend APIs** using FastAPI and Flask  
+-  Hands-on with **schema validation & data modeling using Pydantic**
+-  Experience with **containerizing applications using Docker**
+-  Regular problem solver on **CodeChef, LeetCode, and Codeforces**
 
 ---
 
