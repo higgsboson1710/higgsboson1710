@@ -69,7 +69,7 @@
 </details>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=higgsboson1710&label=Profile%20Views&color=blue&style=flat)
 ### 📊 GitHub & Problem Solving Stats
 
 <div align="center">
